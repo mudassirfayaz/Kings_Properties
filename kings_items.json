@@ -1,0 +1,57 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "item_url": "https://example.com/item/1",
+    "pdf_url": "https://example.com/docs/1.pdf",
+    "for_lease": true,
+    "for_sale": false,
+    "date": "2025-09-01",
+    "time": "10:15:00",
+    "property": "Office Space Downtown"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "item_url": "https://example.com/item/2",
+    "pdf_url": "https://example.com/docs/2.pdf",
+    "for_lease": false,
+    "for_sale": true,
+    "date": "2025-09-02",
+    "time": "14:30:00",
+    "property": "Retail Shop Main Street"
+  },
+  {
+    "name": "Ali Khan",
+    "email": "ali@example.com",
+    "item_url": "https://example.com/item/3",
+    "pdf_url": "https://example.com/docs/3.pdf",
+    "for_lease": true,
+    "for_sale": true,
+    "date": "2025-09-03",
+    "time": "09:45:00",
+    "property": "Warehouse Industrial Area"
+  },
+  {
+    "name": "Maria Garcia",
+    "email": "maria@example.com",
+    "item_url": "https://example.com/item/4",
+    "pdf_url": "https://example.com/docs/4.pdf",
+    "for_lease": false,
+    "for_sale": true,
+    "date": "2025-09-04",
+    "time": "16:20:00",
+    "property": "Luxury Apartment Uptown"
+  },
+  {
+    "name": "Chen Wei",
+    "email": "chen@example.com",
+    "item_url": "https://example.com/item/5",
+    "pdf_url": "https://example.com/docs/5.pdf",
+    "for_lease": true,
+    "for_sale": false,
+    "date": "2025-09-05",
+    "time": "11:00:00",
+    "property": "Co-working Space Tech Park"
+  }
+]
